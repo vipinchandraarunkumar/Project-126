@@ -1,0 +1,23 @@
+body
+{
+background-size:cover;
+}
+
+.heading
+{
+ font-size: 20px;
+ width:100%;
+}
+
+#note_span
+{
+color: black;
+font-size: 15px;
+}
+
+canvas
+{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px aqua;
+}
